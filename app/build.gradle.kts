@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.childprotect.app"
+    namespace = "com.findme.guardian"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.childprotect.app"
+        applicationId = "com.findme.guardian"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
