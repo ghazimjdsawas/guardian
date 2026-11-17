@@ -53,7 +53,7 @@
     <string name="permissions_missing">Missing: %1$s</string>
     <string name="location_always_granted">Location set to “Allow all the time”</string>
     <string name="location_always_hint">Choose “Allow all the time” for background location access.</string>
-    <string name="shizuku_not_running">Shizuku isn't running — tap “How to start”.</string>
+    <string name="shizuku_not_running">Shizuku isn\'t running — tap “How to start”.</string>
     <string name="already_granted">Already granted</string>
     <string name="admin_disabled">Uninstall protection disabled</string>
     <string name="admin_explanation">Allows Guardian to lock the phone remotely. You can deactivate this any time in Android security settings.</string>
